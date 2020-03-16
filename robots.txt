@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaiheevigo.datawrangler.com.au/sitemap.xml
